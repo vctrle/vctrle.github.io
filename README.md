@@ -1,4 +1,4 @@
-[PDF Quality Reducer Tool](pdf-quality-reducer-tool)
+[Lighten PDF Tool](lighten-pdf-tool)
 
 [split-pdf-in-half](split-pdf-in-half)
 
